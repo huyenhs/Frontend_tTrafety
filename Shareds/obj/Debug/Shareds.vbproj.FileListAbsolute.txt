@@ -1,0 +1,8 @@
+D:\COQUAN\Frontend_tTrafety\Shareds\bin\Debug\Shareds.dll
+D:\COQUAN\Frontend_tTrafety\Shareds\bin\Debug\Shareds.pdb
+D:\COQUAN\Frontend_tTrafety\Shareds\bin\Debug\Shareds.xml
+D:\COQUAN\Frontend_tTrafety\Shareds\obj\Debug\Shareds.Resources.resources
+D:\COQUAN\Frontend_tTrafety\Shareds\obj\Debug\Shareds.vbproj.GenerateResource.Cache
+D:\COQUAN\Frontend_tTrafety\Shareds\obj\Debug\Shareds.dll
+D:\COQUAN\Frontend_tTrafety\Shareds\obj\Debug\Shareds.xml
+D:\COQUAN\Frontend_tTrafety\Shareds\obj\Debug\Shareds.pdb
