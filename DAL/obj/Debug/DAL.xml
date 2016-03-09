@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DAL
+</name>
+</assembly>
+<members>
+<member name="P:DAL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DAL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DAL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DAL.Config.GetConnectionString(System.String)">
+	<summary>
+ Lấy về ConnectionString theo tên đã định nghĩa trong Web.Config
+ </summary>
+</member><member name="M:DAL.Config.GetAppSetting(System.String)">
+	<summary>
+ Lấy về AppSetting theo tên đã định nghĩa trong Web.Config
+ </summary>
+</member><member name="M:DAL.DBAccess.SQlExecuteReturnOneValue(System.String,System.String,System.Data.SqlClient.SqlParameter[],System.Boolean)">
+	<summary>
+ Thuc Thi cau lenh Sql co tham so Va tra ve 1 gia tri
+ </summary>
+</member>
+</members>
+</doc>

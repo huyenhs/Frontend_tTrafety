@@ -1,0 +1,8 @@
+D:\COQUAN\Frontend_tTrafety\DAL\obj\Debug\DAL.Resources.resources
+D:\COQUAN\Frontend_tTrafety\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\COQUAN\Frontend_tTrafety\DAL\bin\Debug\DAL.dll
+D:\COQUAN\Frontend_tTrafety\DAL\bin\Debug\DAL.pdb
+D:\COQUAN\Frontend_tTrafety\DAL\bin\Debug\DAL.xml
+D:\COQUAN\Frontend_tTrafety\DAL\obj\Debug\DAL.dll
+D:\COQUAN\Frontend_tTrafety\DAL\obj\Debug\DAL.xml
+D:\COQUAN\Frontend_tTrafety\DAL\obj\Debug\DAL.pdb
